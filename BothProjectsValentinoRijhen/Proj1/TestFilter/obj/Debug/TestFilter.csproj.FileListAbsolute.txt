@@ -1,0 +1,8 @@
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\bin\Debug\TestFilter.dll
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\bin\Debug\TestFilter.pdb
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\bin\Debug\Proj1.exe
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\bin\Debug\Proj1.pdb
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\obj\Debug\TestFilter.csprojResolveAssemblyReference.cache
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\obj\Debug\TestFilter.dll
+c:\Users\cultu\OneDrive\documenten\visual studio 2015\Projects\Proj1\TestFilter\obj\Debug\TestFilter.pdb

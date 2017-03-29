@@ -1,0 +1,8 @@
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\bin\Debug\Proj2.exe.config
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\bin\Debug\Proj2.exe
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\bin\Debug\Proj2.pdb
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\obj\Debug\Proj2.Pro2.resources
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\obj\Debug\Proj2.Properties.Resources.resources
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\obj\Debug\WarRobots.csproj.GenerateResource.Cache
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\obj\Debug\Proj2.exe
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\Proj2\obj\Debug\Proj2.pdb

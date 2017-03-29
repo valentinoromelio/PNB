@@ -1,0 +1,4 @@
+c:\users\cultu\onedrive\documenten\visual studio 2015\Projects\Proj1\Proj1\bin\Debug\Proj1.exe
+c:\users\cultu\onedrive\documenten\visual studio 2015\Projects\Proj1\Proj1\bin\Debug\Proj1.pdb
+c:\users\cultu\onedrive\documenten\visual studio 2015\Projects\Proj1\Proj1\obj\Debug\Proj1.exe
+c:\users\cultu\onedrive\documenten\visual studio 2015\Projects\Proj1\Proj1\obj\Debug\Proj1.pdb

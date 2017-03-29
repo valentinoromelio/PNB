@@ -1,0 +1,8 @@
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\bin\Debug\TestRobotsPositions.dll
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\bin\Debug\TestRobotsPositions.pdb
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\bin\Debug\Proj2.exe
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\bin\Debug\Proj2.pdb
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\obj\Debug\TestRobotsPositions.csprojResolveAssemblyReference.cache
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\obj\Debug\TestRobotsPositions.dll
+C:\Users\cultu\OneDrive\Documenten\Visual Studio 2015\Projects\Proj1\TestRobotsPositions\obj\Debug\TestRobotsPositions.pdb
